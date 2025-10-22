@@ -1,6 +1,5 @@
 transformers==4.29.2
 accelerate==0.19.0
-datasets
 pysbd
 wandb
 h5py
@@ -16,8 +15,6 @@ conllu
 pandarallel
 cohere
 replicate
-onnx
-onnxruntime
 mosestokenizer
 cached_property
 tqdm
@@ -25,3 +22,6 @@ skops
 pandas
 protobuf==3.20
 huggingface-hub==0.25.2
+huggingface-hub==0.25.2
+datasets==2.19.0
+tokenizers==0.13.3

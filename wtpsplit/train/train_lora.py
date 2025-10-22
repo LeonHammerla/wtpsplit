@@ -423,6 +423,9 @@ def main():
                 special_tokens_ids = set(tokenizer.all_special_ids)
                 special_tokens_ids.discard(custom_token_id)
 
+                # Added this line below
+                backbone.resize_token_embeddings(len(tokenizer))
+
                 if "short" in dataset_name:
                     one_sample_per_line = True
                 else:
