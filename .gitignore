@@ -21,3 +21,4 @@ data_subset/**
 xlmr-*/**
 **/checkpoint-*/**
 /venv/
+/.idea/
