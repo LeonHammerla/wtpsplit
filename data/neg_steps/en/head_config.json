@@ -115,7 +115,7 @@
     "LABEL_99": 99
   },
   "model_class": "SubwordXLMForTokenClassification",
-  "model_name": "segment-any-text/sat-3l",
+  "model_name": "segment-any-text/sat-12l",
   "model_type": "xlm-token",
   "name": null,
   "num_labels": 111,

@@ -18,7 +18,7 @@
   },
   "hidden_size": 768,
   "model_class": "SubwordXLMForTokenClassification",
-  "model_name": "segment-any-text/sat-3l",
+  "model_name": "segment-any-text/sat-12l",
   "model_type": "xlm-token",
   "name": "text",
   "version": "0.2.1"
